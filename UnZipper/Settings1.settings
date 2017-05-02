@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="UnZipper" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="自動解凍対象監視フォルダ" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\t-takemura\Documents\Visual Studio 2010\Projects\UnZipper\UnZipper\bin\Debug</Value>
+    </Setting>
+    <Setting Name="作業フォルダ" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\t-takemura\Documents\Visual Studio 2010\Projects\UnZipper\UnZipper\bin\Debug\UnZipperTemp</Value>
+    </Setting>
+    <Setting Name="監視間隔ミリ秒" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

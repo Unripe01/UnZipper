@@ -1,0 +1,7 @@
+c:\users\t-takemura\documents\visual studio 2010\Projects\UnZipper\UnZipper\bin\Debug\UnZipper.exe.config
+c:\users\t-takemura\documents\visual studio 2010\Projects\UnZipper\UnZipper\bin\Debug\UnZipper.exe
+c:\users\t-takemura\documents\visual studio 2010\Projects\UnZipper\UnZipper\bin\Debug\UnZipper.pdb
+c:\users\t-takemura\documents\visual studio 2010\Projects\UnZipper\UnZipper\obj\x86\Debug\UnZipper.exe
+c:\users\t-takemura\documents\visual studio 2010\Projects\UnZipper\UnZipper\obj\x86\Debug\UnZipper.pdb
+C:\Users\t-takemura\Documents\Visual Studio 2010\Projects\UnZipper\UnZipper\bin\Debug\Ionic.Zip.dll
+C:\Users\t-takemura\Documents\Visual Studio 2010\Projects\UnZipper\UnZipper\obj\x86\Debug\UnZipper.csprojResolveAssemblyReference.cache
